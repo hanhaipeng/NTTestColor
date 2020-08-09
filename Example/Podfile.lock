@@ -1,0 +1,16 @@
+PODS:
+  - NTTestColor (0.1.0)
+
+DEPENDENCIES:
+  - NTTestColor (from `../`)
+
+EXTERNAL SOURCES:
+  NTTestColor:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  NTTestColor: 5f030c8c658088235adffc47555004b36949deca
+
+PODFILE CHECKSUM: 35252b36799360b6064eb8b24c2a6459cb3eec9d
+
+COCOAPODS: 1.10.0.beta.1

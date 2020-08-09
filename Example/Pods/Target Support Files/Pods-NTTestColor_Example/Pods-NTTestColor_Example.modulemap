@@ -1,0 +1,6 @@
+framework module Pods_NTTestColor_Example {
+  umbrella header "Pods-NTTestColor_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

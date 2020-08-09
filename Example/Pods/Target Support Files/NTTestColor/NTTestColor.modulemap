@@ -1,0 +1,6 @@
+framework module NTTestColor {
+  umbrella header "NTTestColor-umbrella.h"
+
+  export *
+  module * { export * }
+}
